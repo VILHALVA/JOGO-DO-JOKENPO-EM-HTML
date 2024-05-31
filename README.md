@@ -19,4 +19,3 @@ Este é um jogo simples de Pedra, Papel e Tesoura que é jogado no navegador.
 ## CREDITOS:
 - [PROJETO CRIADO PELO "jpbrab0"](https://github.com/jpbrab0/pedra-papel-tesoura)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
